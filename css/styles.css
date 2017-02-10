@@ -15,7 +15,18 @@ body {
 }
 
 img {
-  margin: 0;
+  margin: 50;
   border: 10px solid blue;
-  padding: 60;
+  padding: 100;
+}
+.point {
+  color: red;
+}
+.name {
+  text-align: center;
+  color: red;
+}
+.project {
+  text-align: center;
+  color: red;
 }
