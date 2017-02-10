@@ -1,7 +1,21 @@
+body {
+  background-color: grey;
+}
 .contacts {
   float: right;
 }
 
 .h2 {
   float: center;
+}
+
+.intro {
+  text-align: center;
+  color: red;
+}
+
+img {
+  margin: 0;
+  border: 10px solid blue;
+  padding: 60;
 }
